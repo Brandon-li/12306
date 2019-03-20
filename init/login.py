@@ -8,6 +8,7 @@ from inter.GetRandCode import getRandCode
 from myException.UserPasswordException import UserPasswordException
 from myException.balanceException import balanceException
 
+#Aasqwdsqwdqwdqwds
 
 class GoLogin:
     def __init__(self, session, is_auto_code, auto_code_type):
